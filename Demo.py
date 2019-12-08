@@ -1,2 +1,7 @@
-print("Hello World !");
-print("Hello World !");
+# This program adds two numbers
+num1 = 1
+num2 = 6
+# Add two numbers
+sum = int(num1) + int(num2)
+# Display the sum
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
